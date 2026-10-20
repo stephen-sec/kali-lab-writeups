@@ -9,14 +9,15 @@ Labs cover network reconnaissance, OSINT, Python scripting, and service enumerat
 
 ## Lab Index
 
-| # | Topic | Tools Used |
-|---|-------|-----------|
-| 01 | Network Scanning & Host Discovery | Nmap |
-| 02 | Service & Version Enumeration | Nmap |
-| 03 | Username OSINT | Sherlock |
-| 04 | Email OSINT | Holehe |
-| 05 | Banner Grabbing & Service Fingerprinting | Netcat, Python |
-| 06 | Python Scripting — Modules & Network Sockets | Python |
+|## Lab Index
+
+| # | Topic | Tools Used | Writeup |
+|---|-------|-----------|---------|
+| 01 | Network Scanning & Host Discovery | Nmap | [View](lab-01-host-discovery.md) |
+| 02 | Service & Version Enumeration | Nmap | [View](lab-02-service-enumeration.md) |
+| 03 | Username OSINT | Sherlock | [View](lab-03-username-osint.md) |
+| 04 | Email OSINT | Holehe | [View](lab-04-email-osint.md) |
+| 05 | Banner Grabbing & Service Fingerprinting | Netcat, Python | [View](lab-05-banner-grabbing.md) |
 
 ---
 
